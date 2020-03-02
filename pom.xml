@@ -17,7 +17,7 @@
     <version>3.0.0-M4</version>
     <configuration>
     <suitexmlfiles>
-    <suitexmlfile>testng1.xml</suitexmlfile>
+    <suitexmlfile>testng4.xml</suitexmlfile>
     </suitexmlfiles>
     </configuration>
   </plugin>
